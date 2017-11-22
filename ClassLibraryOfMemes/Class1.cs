@@ -4,6 +4,7 @@ namespace ClassLibraryOfMemes
 {
     public class Class1
     {
-        араоврлоарпл
+        bla
+
     }
 }
