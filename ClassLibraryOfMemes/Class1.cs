@@ -4,7 +4,7 @@ namespace ClassLibraryOfMemes
 {
     public class Class1
     {
-        bla
+        public int MyProperty { get; set; }
 
     }
 }
